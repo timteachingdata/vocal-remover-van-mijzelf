@@ -9,6 +9,7 @@ This is a deep-learning-based tool to extract instrumental track from your songs
 
 ### Getting vocal-remover
 Download the latest version from [here](https://github.com/tsurumeso/vocal-remover/releases).
+Mijn eigen aanpassing zelfs **vetgedrukt**
 
 ### Install PyTorch
 **See**: [GET STARTED](https://pytorch.org/get-started/locally/)
